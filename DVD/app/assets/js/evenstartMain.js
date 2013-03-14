@@ -149,11 +149,10 @@ function displayResult(result)
 	var synopsisCont = (result.synopsisCont).length ? '<p class="sysnopsis-cont">' + result.synopsisCont + '</p>' : '';
 	var synopsis = (result.synopsis).length ? '<a class="btn green-btn" href="#synopsis">Synopsis</a><div class="synopsis"><p>' + result.synopsis + '</p>' + synopsisCont + '</div>' : '';
 	
-	var fileLocation = Config.resource_dir + result.location;
-	fileLocation = cleanUpPath(fileLocation);
 	
 	var fileType = (result.fileType).toUpperCase();
 	var fileTypeClass = '';
+	
 	
 	switch(fileType)
 	{
@@ -166,11 +165,16 @@ function displayResult(result)
 			fileTypeClass = 'fla';
 			fileType = "URL/<br />FLA";
 		break;
-		
+				
 		default :
 			fileTypeClass = fileType.toLowerCase();
 		break;
 	}
+	
+	var fileLocation = (fileType == "URL") ? result.location : Config.resource_dir + result.location;
+	
+	fileLocation = cleanUpPath(fileLocation);
+	
 	
 	var row = '<tr>';
 	row += '<td class="name"><p><a href="' + fileLocation + '">' + result.name + '</a></p></td>';

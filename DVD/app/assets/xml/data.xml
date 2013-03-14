@@ -16,6 +16,102 @@
 		</item>
 		-->
 		<item>
+			<name>2012 Even Start Annual Business Meeting Keynote Address</name>
+			<file_type></file_type>
+			<location></location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>Former Congressman William F. Goodling provided the keynote address at the annual Even Start business meeting.</desc>
+			<synopsis>Often referred to as the father of Even Start, Mr. Goodling discusses his background and motivation which led to the introduction of Even Start.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Retrospective</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Retrospective.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>Compilation of personal reflections and quotations from various people involved with the Even Start program.</desc>
+			<synopsis>A collection of pictures, stories, and quotations from various people involved with the Even Start program over the past 24 years. </synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Family Engagement</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Family Engagement.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>Engaging Families in Need in Their Children's Learning: Lessons From the Even Start Family Literacy Program</desc>
+			<synopsis>Developed in the hopes that future literacy programs and/or programs working with hard to reach families can benefit from and expand on Even Start's legacy. </synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Lessons for Future Programs: Two Decades of Policy Experiments in Even Start</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>Document to introduce the five papers offering many lessons for policymakers at both federal and state levels.</desc>
+			<synopsis>As the Even Start program came to a close, a team of federal and state administrators and the program’s national technical assistance providers came together to identify lessons learned that might be useful to others who are designing or improving grant programs. In this selection of policy papers, the team has identified policy topics that are common to grant programs and has described Even Start’s experiences in implementing related policies along with lessons learned about successes and failures.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Lessons About Collaborative Relationships</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Lessons_ Collaborative Relationships.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>This paper tackles the challenges posed by legislative provisions that prescribe collaborative arrangements—an increasingly common feature of grant programs.</desc>
+			<synopsis>Even Start legislation included numerous requirements for organizational relationships, making it a good test case for the benefits and burdens of collaboration. This paper describes the conditions that need to be in place to ensure that the benefits of collaborations can be realized at the local level, and shows how federal and state agencies can promote and not impede the creation of those conditions.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Lessons About Setting Expectations for Accountability</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Lessons_Accountability.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>This paper mines the varied experiences of the Even Start program, which required all states to set outcome performance standards for local grantee accountability and also required local grantees to report on federally determined indicators of performance.</desc>
+			<synopsis>This extensive reporting yielded lessons about maintaining a sharp focus on participant outcomes and aligning reporting requirements. Also, the paper identifies the limitations of using data for high-stakes decision making.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Lessons About Data Utilization for Continuous Improvement</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Lessons_Continuous Improvement.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>This paper sheds light on the mixed success of the Even Start policies designed to promote local grantee evaluations, which were aimed at data-grounded program improvements to strengthen outcomes.</desc>
+			<synopsis>Lessons were learned about the importance of modeling data utilization by federal and state agencies, ways to overcome traditional challenges to designing credible evaluations, and the types of resources and support that grantees need in order to commission and make good use of evaluations.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
+			<name>Legacy Document: Lessons About Federal Monitoring</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Lessons_Federal Monitoring.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>This paper includes observations about the pluses and minuses of the different approaches employed in federal monitoring of states and local grantees over the several decades that Even Start operated.</desc>
+			<synopsis>This paper describes monitoring practices that facilitated improvements in program operations at the state level and also those experiments that were not as useful.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>
+		<item>
 			<name>Early Childhood Education Lesson 1: Mission Critical</name>
 			<file_type>PDF</file_type>
 			<location>Resources\EarlyChildhoodEducation\OnlineCourse\docs\L01_9_18_8.pdf</location>
@@ -267,6 +363,7 @@
 			<synopsis>Research is presented on the key concepts in early reading and how those concepts link to skills in the primary grades. Each concept is also given a learning trajectory that describes what children should be able to do as they progress within that concept. Methods for assessing whether a literacy program's activities meet each key concept and learning trajectory are given.</synopsis>
 			<synopsis_cont></synopsis_cont>
 		</item>
+		<!-- 
 		<item>
 			<name>Adult Literacy Development</name>
 			<file_type>URL</file_type>
@@ -279,6 +376,7 @@
 			<synopsis>The first section of the course focuses on literacy.  It identifies three sections of native language proficiency and education, and gives suggestions on ESL literacy methodology.  The next section looks at how people from different cultural backgrounds communicate.  It also helps teachers deal effectively with students from different backgrounds.  In the module on phonological processing, you will learn various techniques that could help students recognize and manipulate the component sounds in words. The section on vocabulary development focuses on the complexity of word knowledge and gives suggestions for vocabulary recognition and development.  There is also a module on syntactic processing that provides various techniques that can help build learners' knowledge of grammar and syntax.  The final section deals with schema activation.  It gives suggestions about activating the correct schema, and presents various pre-reading strategies that aid in reading comprehension.</synopsis>
 			<synopsis_cont></synopsis_cont>
 		</item>
+			-->
 		<item>
 			<name>Adult Learners: Teaching Strategies to Improve Learning and Comprehension</name>
 			<file_type>PDF</file_type>
@@ -1070,7 +1168,7 @@ their children&#x2019;s literacy development.
 		<item>
 			<name>Why School is Hard for Non/Preliterate Adult ESOL Learners</name>
 			<file_type>PDF</file_type>
-			<location>Resources\AdultEducation\Research\docs\#3 LL learners.pdf</location>
+			<location>Resources\AdultEducation\Research\docs\3_LL_learners.pdf</location>
 			<url>P:\225 evenstart\working\2010 Annual Busieness Meeting Materials\Day 2\Reaseach-Based Practices for Working with ELL Adult education\# 3 LL learners.pdf</url>
 			<top_level_id>AE</top_level_id>
 			<second_level_id>R</second_level_id>
@@ -2176,10 +2274,10 @@ when to learn new skills; (b) teaching parents strategies that are empirically b
 		</item>
 		<item>
 			<name>Doing What Works</name>
-<!--			<file_type>link</file_type>-->
 			<file_type>URL</file_type>
-			<location>http://dww.ed.gov/Preschool-Language-and-Literacy/topic/?T_ID=15</location>
-			<url>http://dww.ed.gov/Preschool-Language-and-Literacy/topic/?T_ID=15</url>
+			<!-- <location>http://dww.ed.gov/Preschool-Language-and-Literacy/topic/?T_ID=15</location> -->
+			<location>http://dww.ed.gov/</location>
+			<url>http://dww.ed.gov/</url>
 			<top_level_id>ECE</top_level_id>
 			<second_level_id>G, R</second_level_id>
 			<tag>practices</tag>
