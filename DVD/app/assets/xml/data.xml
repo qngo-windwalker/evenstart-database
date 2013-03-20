@@ -17,8 +17,8 @@
 		-->
 		<item>
 			<name>2012 Even Start Annual Business Meeting Keynote Address</name>
-			<file_type></file_type>
-			<location></location>
+			<file_type>WMV</file_type>
+			<location>Resources\video\Goodling_EvenStart-640x360mp4.mp4</location>
 			<url></url>
 			<top_level_id></top_level_id>
 			<second_level_id></second_level_id>
@@ -28,7 +28,7 @@
 			<synopsis_cont></synopsis_cont>
 		</item>
 		<item>
-			<name>Legacy Document: Retrospective</name>
+			<name>- 1 Legacy Document: Retrospective</name>
 			<file_type>PDF</file_type>
 			<location>Resources\Legacy\Legacy_Retrospective.pdf</location>
 			<url></url>
@@ -40,7 +40,7 @@
 			<synopsis_cont></synopsis_cont>
 		</item>
 		<item>
-			<name>Legacy Document: Family Engagement</name>
+			<name>- 2 Legacy Document: Family Engagement</name>
 			<file_type>PDF</file_type>
 			<location>Resources\Legacy\Legacy_Family Engagement.pdf</location>
 			<url></url>
@@ -52,9 +52,9 @@
 			<synopsis_cont></synopsis_cont>
 		</item>
 		<item>
-			<name>Legacy Document: Lessons for Future Programs: Two Decades of Policy Experiments in Even Start</name>
+			<name>- 3 Legacy Document: Lessons for Future Programs: Two Decades of Policy Experiments in Even Start</name>
 			<file_type>PDF</file_type>
-			<location>Resources\Legacy\</location>
+			<location>Resources\Legacy\Legacy_Lessons_Introduction.pdf</location>
 			<url></url>
 			<top_level_id></top_level_id>
 			<second_level_id></second_level_id>
@@ -62,9 +62,21 @@
 			<desc>Document to introduce the five papers offering many lessons for policymakers at both federal and state levels.</desc>
 			<synopsis>As the Even Start program came to a close, a team of federal and state administrators and the program’s national technical assistance providers came together to identify lessons learned that might be useful to others who are designing or improving grant programs. In this selection of policy papers, the team has identified policy topics that are common to grant programs and has described Even Start’s experiences in implementing related policies along with lessons learned about successes and failures.</synopsis>
 			<synopsis_cont></synopsis_cont>
-		</item>
+		</item>		
 		<item>
-			<name>Legacy Document: Lessons About Collaborative Relationships</name>
+			<name>- 4 Legacy Document: Lessons About Supporting State Administration</name>
+			<file_type>PDF</file_type>
+			<location>Resources\Legacy\Legacy_Lessons_State Administration.pdf</location>
+			<url></url>
+			<top_level_id></top_level_id>
+			<second_level_id></second_level_id>
+			<tag></tag>
+			<desc>This paper describes actions that the federal government can take to provide direction and support for state agencies as they implement grant programs.</desc>
+			<synopsis>This paper provides analysis of the types of activities that build state capacity to support quality at the local level. Highlights include communication practices and ideas for using national activity resources to promote coherent program messages.</synopsis>
+			<synopsis_cont></synopsis_cont>
+		</item>				
+		<item>
+			<name>- 5 Legacy Document: Lessons About Collaborative Relationships</name>
 			<file_type>PDF</file_type>
 			<location>Resources\Legacy\Legacy_Lessons_ Collaborative Relationships.pdf</location>
 			<url></url>
@@ -76,7 +88,7 @@
 			<synopsis_cont></synopsis_cont>
 		</item>
 		<item>
-			<name>Legacy Document: Lessons About Setting Expectations for Accountability</name>
+			<name>- 6 Legacy Document: Lessons About Setting Expectations for Accountability</name>
 			<file_type>PDF</file_type>
 			<location>Resources\Legacy\Legacy_Lessons_Accountability.pdf</location>
 			<url></url>
@@ -88,7 +100,7 @@
 			<synopsis_cont></synopsis_cont>
 		</item>
 		<item>
-			<name>Legacy Document: Lessons About Data Utilization for Continuous Improvement</name>
+			<name>- 7 Legacy Document: Lessons About Data Utilization for Continuous Improvement</name>
 			<file_type>PDF</file_type>
 			<location>Resources\Legacy\Legacy_Lessons_Continuous Improvement.pdf</location>
 			<url></url>
@@ -100,7 +112,7 @@
 			<synopsis_cont></synopsis_cont>
 		</item>
 		<item>
-			<name>Legacy Document: Lessons About Federal Monitoring</name>
+			<name>- 8 Legacy Document: Lessons About Federal Monitoring</name>
 			<file_type>PDF</file_type>
 			<location>Resources\Legacy\Legacy_Lessons_Federal Monitoring.pdf</location>
 			<url></url>
@@ -1192,7 +1204,7 @@ their children&#x2019;s literacy development.
 		<item>
 			<name>The Iceberg Conception of the Nature of Culture</name>
 			<file_type>PDF</file_type>
-			<location>\Resources\AdultEducation\Research\docs\The Iceberg Conception of the Nature of Culture.pdf</location>
+			<location>Resources\AdultEducation\Research\docs\The Iceberg Conception of the Nature of Culture.pdf</location>
 			<url>P:\225 evenstart\working\2010 Annual Busieness Meeting Materials\Day 2\Reaseach-Based Practices for Working with ELL Adult education\The Iceberg Conception of the Nature of Culture.pdf</url>
 			<top_level_id>AE</top_level_id>
 			<second_level_id>R</second_level_id>

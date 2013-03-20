@@ -1,5 +1,5 @@
 $('table.sortable').each(function() {
-	var $table = $(this);
+	// var $table = $(this);
 
 	$('th', $table).each(function(column) {
 		if ($(this).is('.sort-alpha'))
